@@ -1,6 +1,6 @@
 # CAPSTONE PROJECT 2
 ## GREEN BIG5 INFORMATION SYSTEM
-## Hi 👋, We are Green Big5
+## Hi ðŸ‘‹, We are Green Big5
 
 ## Description
 A project about human personality and their relationship to the environment
@@ -43,8 +43,26 @@ $ uvicorn post_data:app --reload
 When running the above code, the system will automatically declare the missing libraries. Install these libraries using the package manager [pip](https://pip.pypa.io/en/stable/)
 
 ```bash
-pip install [library_name==version]
+$ pip install [library_name==version]
 #Example: pip install spacy==2.2.4
+```
+
+### Usage
+
+Open the folder containing the source code capstone-server
+```bash
+$ npm start
+```
+
+Open the folder containing the source code capstone-client
+```bash
+$ npm start
+```
+
+Open folder containing the source code Questgen.ai
+
+```bash
+$ uvicorn post_data:app --reload
 ```
 
 ## Note
@@ -57,9 +75,3 @@ Phone: `(+84)932478783`
 
 ## License
 Green Big5 Team
-
-
-
-
-
-
