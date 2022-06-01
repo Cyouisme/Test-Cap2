@@ -1,24 +1,24 @@
 # CAPSTONE PROJECT 2
-##GREEN BIG5 INFORMATION SYSTEM
-##Hi 👋, We are Green Big5
+## GREEN BIG5 INFORMATION SYSTEM
+## Hi 👋, We are Green Big5
 
-##Description
+## Description
 A project about human personality and their relationship to the environment
 
-##Team members: 
+## Team members: 
 - Loc, Nguyen Tien
 - Chung, Hoang Bao
 - Vinh, Do Quang
 - Kha, Ngo Van
 
-##Setup GB5 Websites
+## Setup GB5 Websites
 
-###Setup environment
+### Setup environment
 - Install the [Nodejs](https://nodejs.org/en/download/) environment
 - Install [Anacoda](https://www.anaconda.com/)
 - Install [Python](https://www.python.org/downloads/) version 3.9. or higher
 
-###Installation
+### Installation
 
 Open the folder containing the source code capstone-client and install yarn
 
@@ -47,12 +47,12 @@ pip install [library_name==version]
 #Example: pip install spacy==2.2.4
 ```
 
-##Note
+## Note
 The project don't have the database yet.If you want get the project database,let's contact me
 Gmail: `nguyentienloc18122000@gmail.com`
 Phone: `(+84)932478783`
 
-##Demo
+## Demo
 [GB5](http://greenbig5.herokuapp.com/)
 
 ## License
