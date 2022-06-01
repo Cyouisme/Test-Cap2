@@ -1,6 +1,6 @@
 # CAPSTONE PROJECT 2
 ## GREEN BIG5 INFORMATION SYSTEM
-## Hi ðŸ‘‹, We are Green Big5
+## Hi 👋, We are Green Big5
 
 ## Description
 A project about human personality and their relationship to the environment
