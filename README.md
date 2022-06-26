@@ -37,15 +37,10 @@ $ npm install yarn --global
 Open folder containing the source code Questgen.ai to run code 
 
 ```bash
-$ uvicorn post_data:app --reload
+$ pip install -r requirements.txt
 ```
 
-When running the above code, the system will automatically declare the missing libraries. Install these libraries using the package manager [pip](https://pip.pypa.io/en/stable/)
-
-```bash
-$ pip install [library_name==version]
-#Example: pip install spacy==2.2.4
-```
+When running the above code, the system will automatically install these libraries using the package manager [pip](https://pip.pypa.io/en/stable/)
 
 ### Usage
 
