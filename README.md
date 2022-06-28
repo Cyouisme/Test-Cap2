@@ -5,11 +5,13 @@
 ## Description
 A project about human personality and their relationship to the environment
 
+## Mentors:
+- Doctor.Habil. Binh, Nguyen Thanh
+- Master Huy, Truong Dinh
+
 ## Team members: 
 - Loc, Nguyen Tien
-- Chung, Hoang Bao
-- Vinh, Do Quang
-- Kha, Ngo Van
+- [Chung](https://github.com/Cyouisme/), Hoang Bao
 
 ## Setup GB5 Websites
 
